@@ -1,2 +1,2 @@
 # QualityIndex
-easy to use python aboat quality index
+easy to use code of python aboat quality index
